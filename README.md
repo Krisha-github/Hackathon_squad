@@ -56,6 +56,12 @@ Overall Complexity: `O(N log N + M)`
 ## Technologies Used
 
 - C++
-- STL Vectors
+- - STL Vectors
+--
+## Credits
+This project was built as a group project for Coding Club by:
+- Krisha Kapadia
+- Devesh More
+
 - Greedy Algorithms
 - Graph Representation using Adjacency Lists

@@ -56,7 +56,7 @@ Overall Complexity: `O(N log N + M)`
 ## Technologies Used
 
 - C++
-- - STL Vectors
+-  STL Vectors
 
 
 - Greedy Algorithms
